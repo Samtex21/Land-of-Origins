@@ -1,0 +1,75 @@
+[
+      {
+        "id": "2",
+        "name": "Rituals Hamar Tribe",
+        "description": "The tribe residing in Southern Ethiopia is known for their gentle and tranquil nature. They lead a semi-nomadic pastoral lifestyle in the Omo River Valley. While their traditional rituals for transitioning into adulthood can be challenging, such as cattle leaping and young women enduring whipping to demonstrate their affection for their kin, the tribe strongly disapproves of vendetta killings. Despite their past practices, we have visited them numerous times, even bringing along our fair-haired 6-month-old grandson, and we were met with great kindness from both the men and women, who lovingly held the baby. It is worth noting that they now receive government protection, which has contributed to the cessation of vendetta killings.",
+        "latitude":5.1667,
+        "longitude":36.6667,
+        "category": "Natural Wonders",
+        "image": "2.hamar-food-storage-hut.jpg"
+      },
+      {
+        "id": "1",
+        "name": "Danakil Depression",
+        "description": "The Danakil Depression is renowned as one of the most scorching and lowest regions on the planet. Its extraordinary landscapes captivate visitors with their otherworldly features, such as sulfur lakes, active volcanoes, and vibrant mineral formations.",
+        "latitude":14.2417,
+        "longitude":40.3025,
+        "category": "Natural Wonders",
+        "image": "1.hot-spring-lake-karum_small.jpg"
+      },
+      {
+        "id": "8",
+        "name": "Abay River",
+        "description": "The Abay River, also known as the Blue Nile, is one of the major rivers in Ethiopia. It originates from Lake Tana and flows through impressive gorges and waterfalls, including the famous Blue Nile Falls (Tis Issat) near Bahir Dar.",
+        "latitude":11.8541,
+        "longitude":37.3679,
+        "category": "Natural Wonders",
+        "image": "8.maxresdefault.jpg"
+      },
+      {
+        "id": "4",
+        "name": "Simien Mountains National Park",
+        "description": "Simien Mountains National Park is a UNESCO World Heritage Site and offers breathtaking scenery with its jagged mountain peaks, deep valleys, and unique wildlife. It is home to several endangered species, including the Ethiopian wolf and the Walia ibex.",
+        "latitude":13.1500,
+        "longitude":38.2167,
+        "category": "Wildlife and National Parks",
+        "image": "4.Semien.jpg"
+      },
+      {
+        "id": "5",
+        "name": "Omo National Park and River",
+        "description": "Omo National Park and River are located in southwestern Ethiopia and are known for their rich biodiversity and cultural significance. The park is home to various wildlife species, and the Omo River is a lifeline for indigenous tribes living in the region.",
+        "latitude":5.8236,
+        "longitude":35.0971,
+        "category": "Wildlife and National Parks",
+        "image": "5.Omopark.png"
+      },
+      {
+        "id": "3",
+        "name": "Harar wall",
+        "description": "Harar is a historic city located in eastern Ethiopia. It is known for its rich cultural heritage and unique architectural style. Here are a few key points about Harar: City of Gates,UNESCO World Heritage Site,Cultural and Religious Diversity, Hyena Feeding Ritual, Coffee Culture and Hirut Market",
+        "latitude":9.3136,
+        "longitude":42.1186,
+        "category": "Historical and Cultural Sites",
+        "image": "3.DSC3075.jpg"
+      },
+      {
+        "id": "10",
+        "name": "Gonder",
+        "description": "Gondar, alternatively known as Gonder, is situated at a distance of 725 km from Addis Ababa, 175 km from Bahir Dar, and 120 km from the Simien Mountains. One of the prominent landmarks in Gondar is Fasilides Castle, also called Fasil Ghebbi. Constructed during the 17th century under the rule of Emperor Fasilides, this fortress-like complex served as both the royal residence and the administrative hub of the time. Today, it holds the distinction of being a UNESCO World Heritage Site and is a popular destination for tourists.",
+        "latitude":12.6063,
+        "longitude":37.4688,
+        "category": "Historical and Cultural Sites",
+        "image": "1.activity_156-680--20220302224135.jpg"
+      },
+      {
+        "id": "9",
+        "name": "Axum Obelisk",
+        "description": "Situated in the historic city of Axum, the Axum Obelisk is a lofty granite pillar. It is part of a collection of obelisks that once stood as significant symbols during the era of the Axumite Empire. With its intricate carvings, the obelisk stands as a remarkable testament to the area's abundant historical legacy.",
+        "latitude":14.1326,
+        "longitude":38.7157,
+        "category": "Historical and Cultural Sites",
+        "image": "9.Axum.jpg"
+      }
+]
+  
